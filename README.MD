@@ -1,41 +1,4 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/banner.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
-Projeto com o objetivo de gerar um ebook com as facilidades das ferramentas de IA. A descrição do projeto, prompts e ferramentas utilizadas seguem abaixo:
-
-## 📝 Descrição
-
-Este e-book de 15 páginas que aborda os principais comandos SQL. [./output/ebook_sql.pdf]()
-
-## 🤖 Tecnologias Utilizadas
-
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Microsoft PowerPoint** para edição.
-
-## 🧠 Prompts
-
-
-<p align="center">
 <img 
     src="./assets/banner.png"
     width="400"  
